@@ -1,2 +1,0 @@
-#Penn Beamer Theme
-
